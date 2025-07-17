@@ -1,0 +1,29 @@
+{
+  "name": "homework03-deveshj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-fall-2022/homework03-DeveshJ1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-fall-2022/homework03-DeveshJ1/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-fall-2022/homework03-DeveshJ1#readme",
+  "dependencies": {
+    "markdown-it": "^13.0.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.25.0",
+    "eslint-plugin-mocha": "^10.1.0",
+    "mocha": "^10.0.0"
+  }
+}
